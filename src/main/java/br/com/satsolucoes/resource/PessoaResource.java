@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 import br.com.satsolucoes.model.Pessoa;
 import br.com.satsolucoes.repository.PessoaRepository;
 import br.com.satsolucoes.service.PessoaService;
-
+  
 @RestController
 @RequestMapping("/pessoa")
 @CrossOrigin
